@@ -1,3 +1,3 @@
-def catch_phrase(rescue_princess_peach)
+def catch_phrase(phrase)
   puts phrase
 end
